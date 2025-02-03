@@ -24,18 +24,3 @@ HTTP-клиент : Axios
 - Валидация номера телефона и сообщений.
 - Простой и понятный интерфейс.
 
-Структура проекта
-whatsapp-chat/
-├── public/              # Статические файлы
-├── src/                 # Исходный код
-│   ├── components/      # Реализация компонентов
-│   ├── App.jsx          # Основной компонент приложения
-│   ├── Chat.jsx         # Компонент чата
-│   ├── Message.jsx      # Компонент сообщения
-│   ├── main.jsx         # Точка входа
-│   ├── input.css        # Стили Tailwind CSS
-├── vite.config.js       # Конфигурация Vite
-├── tailwind.config.js   # Конфигурация Tailwind CSS
-├── postcss.config.cjs   # Конфигурация PostCSS
-├── package.json         # Файл зависимостей
-└── README.md            # Документация
